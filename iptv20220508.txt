@@ -31,18 +31,18 @@ CCTV4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/in
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.134.116.30/PLTV/88888910/224/3221225786/index.m3u8
-咪咕4K 31M2160HDR,http://39.135.253.19/PLTV/88888888/224/3221230155/index.m3u8
-咪咕4K 31M2160HDR,http://39.135.253.20/PLTV/88888888/224/3221230155/index.m3u8
-咪咕4K 31M2160HDR,http://39.135.253.31/PLTV/88888888/224/3221230155/index.m3u8
-咪咕4K 31M2160HDR,http://39.135.253.32/PLTV/88888888/224/3221230155/index.m3u8
+咪咕4K,http://39.135.253.19/PLTV/88888888/224/3221230155/index.m3u8
+咪咕4K,http://39.135.253.20/PLTV/88888888/224/3221230155/index.m3u8
+咪咕4K,http://39.135.253.31/PLTV/88888888/224/3221230155/index.m3u8
+咪咕4K,http://39.135.253.32/PLTV/88888888/224/3221230155/index.m3u8
 北京IPTV4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 北京IPTV4K,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 北京IPTV4K,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 北京IPTV4K,http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
 4K,http://117.169.30.5:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 4K,http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
-IPTV 4k电影,http://223.145.212.76:12345/udp/239.76.252.35:9000
-IPTV 4k电影,http://223.145.212.78:12345/udp/239.76.252.35:9000
+IPTV4k电影,http://223.145.212.76:12345/udp/239.76.252.35:9000
+IPTV4k电影,http://223.145.212.78:12345/udp/239.76.252.35:9000
 MIGU4K剧场,http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8
 MIGU4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
 4K电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
@@ -114,30 +114,30 @@ PPTV体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?
 新视觉,http://125.210.152.21:9120/live/XSJHD.m3u8
 新视觉,http://live.tvfix.org/hls/xsjhd.m3u8
-Bein Sport 1 EN 4K,http://forevertv.me:8080/223344/556677/142781
-Bein Sports 2 EN 4K,http://forevertv.me:8080/223344/556677/142782
-Bein Sports 3 EN 4K,http://forevertv.me:8080/223344/556677/142783
-Bein Sports 4 4K,http://forevertv.me:8080/223344/556677/142777
-Bein Sports 5 4K,http://forevertv.me:8080/223344/556677/142778
-Bein Sports 6 4K,http://forevertv.me:8080/223344/556677/142779
-Bein Sports 7 4K,http://forevertv.me:8080/223344/556677/142780
-Bein Sport 1 Premium 4K,http://forevertv.me:8080/223344/556677/142771
-Bein Sports 2 Premium  4K,http://forevertv.me:8080/223344/556677/142772
-Bein Sports 3 Premium  4K,http://forevertv.me:8080/223344/556677/142773
-Bein Sport EXTRA 1 4K,http://forevertv.me:8080/223344/556677/163249
-Bein Sport EXTRA 2 4K,http://forevertv.me:8080/223344/556677/163248
-Bein Sports AFC 1 Ultra 4K,http://forevertv.me:8080/223344/556677/238450
-Bein Sports AFC 2 Ultra 4K,http://forevertv.me:8080/223344/556677/238448
-Bein Sports AFC 3 Ultra 4K,http://forevertv.me:8080/223344/556677/238447
-Bein Sports AFC 4 Ultra 4K,http://forevertv.me:8080/223344/556677/238449
-Astro Super Sport2,http://acc2.aatvbox.club:8880/trmall/trmall0308/1721
-Astro Super Sport3,http://acc2.aatvbox.club:8880/trmall/trmall0308/1720
+BeinSport1EN4K,http://forevertv.me:8080/223344/556677/142781
+BeinSports2EN4K,http://forevertv.me:8080/223344/556677/142782
+BeinSports3EN4K,http://forevertv.me:8080/223344/556677/142783
+BeinSports44K,http://forevertv.me:8080/223344/556677/142777
+BeinSports54K,http://forevertv.me:8080/223344/556677/142778
+BeinSports64K,http://forevertv.me:8080/223344/556677/142779
+BeinSports74K,http://forevertv.me:8080/223344/556677/142780
+BeinSports1Premium4K,http://forevertv.me:8080/223344/556677/142771
+BeinSports2Premium4K,http://forevertv.me:8080/223344/556677/142772
+BeinSports3Premium4K,http://forevertv.me:8080/223344/556677/142773
+BeinSportEXTRA14K,http://forevertv.me:8080/223344/556677/163249
+BeinSportEXTRA24K,http://forevertv.me:8080/223344/556677/163248
+BeinSportsAFC1Ultra4K,http://forevertv.me:8080/223344/556677/238450
+BeinSportsAFC2Ultra4K,http://forevertv.me:8080/223344/556677/238448
+BeinSportsAFC3Ultra4K,http://forevertv.me:8080/223344/556677/238447
+BeinSportsAFC4Ultra4K,http://forevertv.me:8080/223344/556677/238449
+AstroSuperSport2,http://acc2.aatvbox.club:8880/trmall/trmall0308/1721
+AstroSuperSport3,http://acc2.aatvbox.club:8880/trmall/trmall0308/1720
 ESPN,http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
-TNT SPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-TNT SPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-TNT SPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+TNTSPORTS1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNTSPORTS2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNTSPORTS3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNTSPORTS4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+TNTSPORTS5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 影视,#genre#
 CCTV8,http://39.134.116.30:8080/PLTV/88888910/224/3221225631/index.m3u8
 CCTV8,http://183.215.102.57:8089/180000001001/00000001000000000008000000047437/main.m3u8
