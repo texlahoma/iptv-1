@@ -114,7 +114,7 @@ PPTV体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?
 新视觉,http://125.210.152.21:9120/live/XSJHD.m3u8
 新视觉,http://live.tvfix.org/hls/xsjhd.m3u8
-BeinSport1EN4K,http://forevertv.me:8080/223344/556677/142781
+BeinSports1EN4K,http://forevertv.me:8080/223344/556677/142781
 BeinSports2EN4K,http://forevertv.me:8080/223344/556677/142782
 BeinSports3EN4K,http://forevertv.me:8080/223344/556677/142783
 BeinSports44K,http://forevertv.me:8080/223344/556677/142777
@@ -124,8 +124,8 @@ BeinSports74K,http://forevertv.me:8080/223344/556677/142780
 BeinSports1Premium4K,http://forevertv.me:8080/223344/556677/142771
 BeinSports2Premium4K,http://forevertv.me:8080/223344/556677/142772
 BeinSports3Premium4K,http://forevertv.me:8080/223344/556677/142773
-BeinSportEXTRA14K,http://forevertv.me:8080/223344/556677/163249
-BeinSportEXTRA24K,http://forevertv.me:8080/223344/556677/163248
+BeinSportsEXTRA14K,http://forevertv.me:8080/223344/556677/163249
+BeinSportsEXTRA24K,http://forevertv.me:8080/223344/556677/163248
 BeinSportsAFC1Ultra4K,http://forevertv.me:8080/223344/556677/238450
 BeinSportsAFC2Ultra4K,http://forevertv.me:8080/223344/556677/238448
 BeinSportsAFC3Ultra4K,http://forevertv.me:8080/223344/556677/238447
